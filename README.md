@@ -1,4 +1,4 @@
-# Snake Pathfinding Game
+# Snake Pathfinding Game Using A* algorithm
 
 This is a simple snake pathfinding game implemented in Python using the Pygame library.
 
